@@ -1,4 +1,3 @@
-package subordinates;
 import java.util.*;
 import java.io.*;//clases que permiten leer la entrada mucho más rápido que Scanner
 
